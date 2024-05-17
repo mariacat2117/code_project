@@ -22,7 +22,7 @@
 }
 
 h1 {
-    color: rgb(6, 187, 6);
+    color: rgb(41, 128, 41);
     font-size: 64px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
@@ -34,7 +34,7 @@ h2 {
 }
 
 header {
-    background-color: rgb(3, 3, 89);
+    background-color: rgb(28, 28, 85);
     text-align: center;
     padding-bottom: 10px;
     padding-top: 2px;
